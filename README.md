@@ -1,12 +1,9 @@
 # Final Project Go Hactiv8
 
-Suwandi Kurniawan - 1955617840-1140
+Dimas Fajri Pamungkas - GLNG-KS-08-04
 
 ## Project name :
-MyGram API v1.
-
-## Deployed to :
-`mygram-production-346e.up.railway.app`
+Final Project 2 Mygram
 
 ### Features :
 - **Register User** [/users/register]
