@@ -1,4 +1,4 @@
-# Final Project Go Hactiv8
+# Final Project Go Hacktiv8
 
 Dimas Fajri Pamungkas - GLNG-KS-08-04
 
